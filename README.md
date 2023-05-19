@@ -1,1 +1,1 @@
-£ My locally created shopify project
+ My locally created shopify project
